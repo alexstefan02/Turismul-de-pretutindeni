@@ -1,0 +1,64 @@
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe.config
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB.mdf
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB_log.ldf
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.pdb
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csprojResolveAssemblyReference.cache
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Properties.Resources.resources
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.GenerateResource.Cache
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.exe
+c:\users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.pdb
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Form1.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanta.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmInregistrare.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.AdminAdder.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.MyVacations.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.RezervareForm.resources
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Interop.WMPLib.dll
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Interop.WMPLib.dll
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\brato\documents\visual studio 2013\Projects\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.ResolveComReference.cache
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe.config
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Interop.WMPLib.dll
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.ResolveComReference.cache
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.exe
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.pdb
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB.mdf
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB_log.ldf
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.pdb
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Interop.WMPLib.dll
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csprojResolveAssemblyReference.cache
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.AdminAdder.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Form1.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmInregistrare.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanta.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.MyVacations.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Properties.Resources.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.RezervareForm.resources
+C:\Users\brato\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB.mdf
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\TurismDB_log.ldf
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe.config
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.exe
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Turismul de pretutindeni.pdb
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.AdminAdder.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Form1.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmInregistrare.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.FrmVacanta.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.MyVacations.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.Properties.Resources.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul_de_pretutindeni.RezervareForm.resources
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.exe
+C:\Users\admin\Desktop\Turismul de pretutindeni\Turismul de pretutindeni\obj\Debug\Turismul de pretutindeni.pdb
